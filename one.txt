@@ -1,5 +1,0 @@
-one
-1
-hello
-mr hello
-ms hello
